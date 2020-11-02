@@ -222,9 +222,9 @@ include('../config.php');
 
 
                     <img onmouseover="glowEnter(this)" onmouseout="glowLeave(this)" class="mx-auto d-block img circle "
-                        src="csk.jpg">
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_t2aqZJ9pKw1rxZ57IJ9iJg8LWLju9RqL6A&usqp=CAU">
                     <br>
-                    <h2 class="caption" style="color:white;  ">CSK</h2>
+                    <h2 class="caption" style="color:white;  ">RCB</h2>
 
 
 
@@ -246,10 +246,10 @@ include('../config.php');
                 <div class="col item">
 
                     <img onmouseover="glowEnter(this)" onmouseout="glowLeave(this)" class="mx-auto d-block img circle"
-                        src="MI.jpg" id="team_img">
+                    src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Delhi_Capitals_Logo.svg/250px-Delhi_Capitals_Logo.svg.png" id="team_img">
 
                     <br>
-                    <h2 class="caption" style="color:white; ">MI</h2>
+                    <h2 class="caption" style="color:white; ">DC</h2>
 
                 </div>
 

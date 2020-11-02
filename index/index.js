@@ -14,11 +14,11 @@
 
     
     
-        document.getElementById("match1-team1").style.backgroundImage = "url('MI.jpg')";
+        document.getElementById("match1-team1").style.backgroundImage = "url('RCB.jpg')";
     
 
     
-        document.getElementById("match1-team2").style.backgroundImage = "url('RCB.jpg')";
+        document.getElementById("match1-team2").style.backgroundImage = "url('dc.png')";
     
     
     
@@ -27,7 +27,7 @@
     
 
     
-        document.getElementById("match2-team2").style.backgroundImage = "url('dc.png')";
+        document.getElementById("match2-team2").style.backgroundImage = "url('MI.png')";
     
 
     

@@ -206,7 +206,7 @@ body {
     margin-top: -39%;
   }
   .flex-container{
-    margin-top: 24%;
+    margin-top: 35%;
     height: 260px
   }
   .team1{
@@ -263,7 +263,7 @@ body {
             font-family: 'Questrial', sans-serif;
 
             color: rgb(255, 5, 5);
-            font-size: 80px;
+            font-size: 59px;
             line-height: 50px;
             min-width: 50px;
             outline: none;
