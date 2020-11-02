@@ -67,12 +67,14 @@
                     <div class="match">
                       <div class="flex1">
                         <div class="match1">
+                          <a href="../createteam/index.php">
                           <div class="flex-container">
                             <span style="color:white;font-weight: bolder;font-size: 30px;">Day1</span>
                             <div class="team1" id="match1-team1"></div>
                             <div class="vs"></div>
                             <div class="team2" id="match1-team2"></div>
                           </div> 
+                          </a>
                       </div>
 
                       <div class="match2">

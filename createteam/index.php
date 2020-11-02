@@ -191,13 +191,13 @@ include('../config.php');
 
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#footer">Home</a>
+                        <a class="nav-link" href="../index/index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#footer">LeaderBoard</a>
+                        <a class="nav-link" href="../leaderboard.php">LeaderBoard</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#pricing">About</a>
+                        <a class="nav-link" href="../about/index.php">About</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#cta">Contact</a>
